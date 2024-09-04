@@ -1,0 +1,118 @@
+{
+  "" : {
+    "diagnostics" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiary-master.dia",
+    "emit-module-dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiary-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiary-master-emit-module.dia",
+    "swift-dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiary-master.swiftdeps"
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/DerivedSources/CoreDataGenerated/WorkoutDataModel/WorkoutDataModel+CoreDataModel.swift" : {
+    "const-values" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDataModel+CoreDataModel.swiftconstvalues",
+    "dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDataModel+CoreDataModel.d",
+    "diagnostics" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDataModel+CoreDataModel.dia",
+    "index-unit-output-path" : "/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDataModel+CoreDataModel.o",
+    "llvm-bc" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDataModel+CoreDataModel.bc",
+    "object" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDataModel+CoreDataModel.o",
+    "swift-dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDataModel+CoreDataModel.swiftdeps",
+    "swiftmodule" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDataModel+CoreDataModel~partial.swiftmodule"
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/DerivedSources/CoreDataGenerated/WorkoutDataModel/WorkoutEntity+CoreDataClass.swift" : {
+    "const-values" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataClass.d",
+    "diagnostics" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataClass.dia",
+    "index-unit-output-path" : "/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataClass.o",
+    "llvm-bc" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataClass.bc",
+    "object" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataClass.o",
+    "swift-dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/DerivedSources/CoreDataGenerated/WorkoutDataModel/WorkoutEntity+CoreDataProperties.swift" : {
+    "const-values" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataProperties.d",
+    "diagnostics" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataProperties.dia",
+    "index-unit-output-path" : "/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataProperties.o",
+    "llvm-bc" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataProperties.bc",
+    "object" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutEntity+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/Data/CoreDataHandler.swift" : {
+    "const-values" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/CoreDataHandler.swiftconstvalues",
+    "dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/CoreDataHandler.d",
+    "diagnostics" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/CoreDataHandler.dia",
+    "index-unit-output-path" : "/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/CoreDataHandler.o",
+    "llvm-bc" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/CoreDataHandler.bc",
+    "object" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/CoreDataHandler.o",
+    "swift-dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/CoreDataHandler.swiftdeps",
+    "swiftmodule" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/CoreDataHandler~partial.swiftmodule"
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/List/AddWorkoutView.swift" : {
+    "const-values" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/AddWorkoutView.swiftconstvalues",
+    "dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/AddWorkoutView.d",
+    "diagnostics" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/AddWorkoutView.dia",
+    "index-unit-output-path" : "/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/AddWorkoutView.o",
+    "llvm-bc" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/AddWorkoutView.bc",
+    "object" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/AddWorkoutView.o",
+    "swift-dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/AddWorkoutView.swiftdeps",
+    "swiftmodule" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/AddWorkoutView~partial.swiftmodule"
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/List/WorkoutListView.swift" : {
+    "const-values" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutListView.swiftconstvalues",
+    "dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutListView.d",
+    "diagnostics" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutListView.dia",
+    "index-unit-output-path" : "/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutListView.o",
+    "llvm-bc" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutListView.bc",
+    "object" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutListView.o",
+    "swift-dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutListView.swiftdeps",
+    "swiftmodule" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutListView~partial.swiftmodule"
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/List/WorkoutRowView.swift" : {
+    "const-values" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutRowView.swiftconstvalues",
+    "dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutRowView.d",
+    "diagnostics" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutRowView.dia",
+    "index-unit-output-path" : "/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutRowView.o",
+    "llvm-bc" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutRowView.bc",
+    "object" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutRowView.o",
+    "swift-dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutRowView.swiftdeps",
+    "swiftmodule" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutRowView~partial.swiftmodule"
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/List/WorkoutViewModel.swift" : {
+    "const-values" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutViewModel.swiftconstvalues",
+    "dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutViewModel.d",
+    "diagnostics" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutViewModel.dia",
+    "index-unit-output-path" : "/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutViewModel.o",
+    "llvm-bc" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutViewModel.bc",
+    "object" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutViewModel.o",
+    "swift-dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutViewModel.swiftdeps",
+    "swiftmodule" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutViewModel~partial.swiftmodule"
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/Onboarding/OnboardingView.swift" : {
+    "const-values" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/OnboardingView.swiftconstvalues",
+    "dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/OnboardingView.d",
+    "diagnostics" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/OnboardingView.dia",
+    "index-unit-output-path" : "/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/OnboardingView.o",
+    "llvm-bc" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/OnboardingView.bc",
+    "object" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/OnboardingView.o",
+    "swift-dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/OnboardingView.swiftdeps",
+    "swiftmodule" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/OnboardingView~partial.swiftmodule"
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/WorkoutDiaryApp.swift" : {
+    "const-values" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiaryApp.swiftconstvalues",
+    "dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiaryApp.d",
+    "diagnostics" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiaryApp.dia",
+    "index-unit-output-path" : "/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiaryApp.o",
+    "llvm-bc" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiaryApp.bc",
+    "object" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiaryApp.o",
+    "swift-dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiaryApp.swiftdeps",
+    "swiftmodule" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiaryApp~partial.swiftmodule"
+  }
+}

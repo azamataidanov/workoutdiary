@@ -1,0 +1,32 @@
+{
+  "source": "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/List/AddWorkoutView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add Workout"
+      },
+      {
+        "comment": "",
+        "key": "Workout Details"
+      },
+      {
+        "comment": "",
+        "key": "Title"
+      },
+      {
+        "comment": "",
+        "key": "Rounds"
+      },
+      {
+        "comment": "",
+        "key": "Repeats"
+      },
+      {
+        "comment": "",
+        "key": "Save Workout"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/Previews/iphonesimulator/WorkoutDiary/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutRowView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Rounds: %lld rounds"
+      },
+      {
+        "comment": "",
+        "key": "Repeats: %lld"
+      }
+    ]
+  },
+  "version": 1
+}

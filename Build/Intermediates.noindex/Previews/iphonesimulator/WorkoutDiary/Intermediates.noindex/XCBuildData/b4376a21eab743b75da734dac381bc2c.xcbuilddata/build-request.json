@@ -1,0 +1,67 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "0f0885cc5b833ce9238e7e9deaa1710e796ca69458859873b4aa050e49c58a3b"
+    }
+  ],
+  "containerPath" : "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Products",
+      "derivedDataPath" : "/Users/azamataidanov/Desktop/WorkoutDiary",
+      "indexDataStoreFolderPath" : "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary-eahkqhqhdosgifextvepqdhwphzs/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary-eahkqhqhdosgifextvepqdhwphzs/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.5",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "DSTROOT" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/Previews/iphonesimulator/WorkoutDiary/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "OBJROOT" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/Previews/iphonesimulator/WorkoutDiary/Intermediates.noindex",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "SYMROOT" : "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/Previews/iphonesimulator/WorkoutDiary/Products",
+          "TARGET_DEVICE_IDENTIFIER" : "6788E595-7F10-4B2C-A31D-DA52A7738D46",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

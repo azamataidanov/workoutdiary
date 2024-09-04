@@ -1,0 +1,20 @@
+{
+  "source": "/Users/azamataidanov/Desktop/WorkoutDiary/Build/Intermediates.noindex/Previews/iphonesimulator/WorkoutDiary/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutListView.5.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Workouts"
+      },
+      {
+        "comment": "",
+        "key": "No workouts yet."
+      },
+      {
+        "comment": "",
+        "key": "Add Workout"
+      }
+    ]
+  },
+  "version": 1
+}

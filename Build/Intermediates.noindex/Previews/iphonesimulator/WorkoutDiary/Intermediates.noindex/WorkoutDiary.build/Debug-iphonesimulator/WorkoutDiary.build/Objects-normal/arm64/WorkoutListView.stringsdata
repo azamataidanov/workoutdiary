@@ -1,0 +1,20 @@
+{
+  "source": "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/List/WorkoutListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Workouts"
+      },
+      {
+        "comment": "",
+        "key": "No workouts yet."
+      },
+      {
+        "comment": "",
+        "key": "Add Workout"
+      }
+    ]
+  },
+  "version": 1
+}

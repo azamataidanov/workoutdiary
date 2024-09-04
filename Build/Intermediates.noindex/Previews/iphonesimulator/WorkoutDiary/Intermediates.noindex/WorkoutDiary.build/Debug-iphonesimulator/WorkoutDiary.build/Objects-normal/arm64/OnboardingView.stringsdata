@@ -1,0 +1,16 @@
+{
+  "source": "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/Onboarding/OnboardingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Finish"
+      },
+      {
+        "comment": "",
+        "key": "Next"
+      }
+    ]
+  },
+  "version": 1
+}

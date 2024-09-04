@@ -1,0 +1,44 @@
+{
+  "source": "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/List/AddWorkoutView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add Workout"
+      },
+      {
+        "comment": "",
+        "key": "Workout Details"
+      },
+      {
+        "comment": "",
+        "key": "Title"
+      },
+      {
+        "comment": "",
+        "key": "Rounds"
+      },
+      {
+        "comment": "",
+        "key": "Repeats"
+      },
+      {
+        "comment": "",
+        "key": "Save Workout"
+      },
+      {
+        "comment": "",
+        "key": "Duplicate Title"
+      },
+      {
+        "comment": "",
+        "key": "A workout with this title already exists."
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      }
+    ]
+  },
+  "version": 1
+}

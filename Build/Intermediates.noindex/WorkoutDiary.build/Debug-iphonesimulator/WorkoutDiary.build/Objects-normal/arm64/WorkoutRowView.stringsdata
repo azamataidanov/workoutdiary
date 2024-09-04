@@ -1,0 +1,16 @@
+{
+  "source": "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/List/WorkoutRowView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Rounds: %lld %@"
+      },
+      {
+        "comment": "",
+        "key": "Repeats: %lld %@"
+      }
+    ]
+  },
+  "version": 1
+}
