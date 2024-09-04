@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>D6283157-F75A-4CA3-80CE-E9DE62418E9C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D6283157-F75A-4CA3-80CE-E9DE62418E9C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6Ijc0MzhDRUREMkM4MUZGNUUwMDlCMDk4RCIsImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXphbWF0YWlkYW5vdlwvRGVza3RvcFwvV29ya291dERpYXJ5XC9Xb3Jrb3V0RGlhcnkueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fX0=</string>
+			<key>timeStartedRecording</key>
+			<real>747025601.91459799</real>
+			<key>timeStoppedRecording</key>
+			<real>747025602.03198898</real>
+			<key>title</key>
+			<string>Build WorkoutDiary</string>
+			<key>uniqueIdentifier</key>
+			<string>D6283157-F75A-4CA3-80CE-E9DE62418E9C</string>
+		</dict>
+		<key>FA1D46BD-AD03-4358-BB12-89629652A5AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FA1D46BD-AD03-4358-BB12-89629652A5AE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6Ijc0MzhDRUREMkM4MUZGNUUwMDlCMDk4RCIsImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXphbWF0YWlkYW5vdlwvRGVza3RvcFwvV29ya291dERpYXJ5XC9Xb3Jrb3V0RGlhcnkueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fX0=</string>
+			<key>timeStartedRecording</key>
+			<real>747025601.91459799</real>
+			<key>timeStoppedRecording</key>
+			<real>747025602.03198898</real>
+			<key>title</key>
+			<string>Build WorkoutDiary</string>
+			<key>uniqueIdentifier</key>
+			<string>FA1D46BD-AD03-4358-BB12-89629652A5AE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

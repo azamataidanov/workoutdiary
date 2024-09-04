@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>72421AEB-86B0-45DA-B162-5D262112FF3C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>72421AEB-86B0-45DA-B162-5D262112FF3C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WorkoutDiary project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WorkoutDiary</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WorkoutDiary</string>
+			<key>timeStartedRecording</key>
+			<real>747025601.91459799</real>
+			<key>timeStoppedRecording</key>
+			<real>747025602.03198898</real>
+			<key>title</key>
+			<string>Build WorkoutDiary</string>
+			<key>uniqueIdentifier</key>
+			<string>72421AEB-86B0-45DA-B162-5D262112FF3C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

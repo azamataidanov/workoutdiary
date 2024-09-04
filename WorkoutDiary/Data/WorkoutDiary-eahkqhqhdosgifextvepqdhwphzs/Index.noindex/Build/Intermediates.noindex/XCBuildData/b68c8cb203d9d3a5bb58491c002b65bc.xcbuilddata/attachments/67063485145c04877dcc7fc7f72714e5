@@ -1,0 +1,36 @@
+{
+  "" : {
+    "dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/Data/WorkoutDiary-eahkqhqhdosgifextvepqdhwphzs/Index.noindex/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiary-master.d",
+    "diagnostics" : "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/Data/WorkoutDiary-eahkqhqhdosgifextvepqdhwphzs/Index.noindex/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiary-master.dia",
+    "emit-module-dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/Data/WorkoutDiary-eahkqhqhdosgifextvepqdhwphzs/Index.noindex/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiary-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/Data/WorkoutDiary-eahkqhqhdosgifextvepqdhwphzs/Index.noindex/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiary-master-emit-module.dia",
+    "swift-dependencies" : "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/Data/WorkoutDiary-eahkqhqhdosgifextvepqdhwphzs/Index.noindex/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/Objects-normal/arm64/WorkoutDiary-master.swiftdeps"
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/ContentView.swift" : {
+
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/Data/CoreDataHandler.swift" : {
+
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/Data/WorkoutDiary-eahkqhqhdosgifextvepqdhwphzs/Index.noindex/Build/Intermediates.noindex/WorkoutDiary.build/Debug-iphonesimulator/WorkoutDiary.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/List/AddWorkoutView.swift" : {
+
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/List/WorkoutListView.swift" : {
+
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/List/WorkoutRowView.swift" : {
+
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/List/WorkoutViewModel.swift" : {
+
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/Onboarding/OnboardingView.swift" : {
+
+  },
+  "/Users/azamataidanov/Desktop/WorkoutDiary/WorkoutDiary/WorkoutDiaryApp.swift" : {
+
+  }
+}

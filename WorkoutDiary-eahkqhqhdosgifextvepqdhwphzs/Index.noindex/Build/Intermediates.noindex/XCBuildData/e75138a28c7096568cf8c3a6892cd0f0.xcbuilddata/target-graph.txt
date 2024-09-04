@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'WorkoutDiary' in project 'WorkoutDiary' (no dependencies)
+Target 'WorkoutDiary' in project 'WorkoutDiary' (no dependencies)
